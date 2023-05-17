@@ -39,7 +39,7 @@ const About: FC = () => {
             you with any towing needs, whether it's a flat tire, engine failure,
             or an accident. We offer competitive prices and quick response
             times, ensuring that you're never left stranded on the side of the
-            road. Contact us today for all your towing needs!
+            road. Contact us today for all your towing needs!!
           </p>
         </div>
       </div>
