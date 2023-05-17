@@ -10,7 +10,7 @@ import 'aos/dist/aos.css';
 
 const About: FC = () => {
   useEffect(() => {
-    AOS.init({ delay: 200, duration: 1500, once: false });
+    AOS.init({ delay: 200, duration: 1505, once: false });
     AOS.refresh();
   }, []);
   return (
